@@ -1,3 +1,7 @@
+![phoenix logo](https://raw.githubusercontent.com/phoenixframework/phoenix/master/priv/static/phoenix.png)
+> ### Productive. Reliable. Fast.
+> A productive web framework that does not compromise speed or maintainability.
+
 # PhoenixProject
 
 To start your Phoenix server:
