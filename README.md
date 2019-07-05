@@ -2,7 +2,20 @@
 > ### Productive. Reliable. Fast.
 > A productive web framework that does not compromise speed or maintainability.
 
-# PhoenixProject
+## Getting started
+
+See the official site at http://www.phoenixframework.org/
+
+Install the latest version of Phoenix by following the instructions at https://hexdocs.pm/phoenix/installation.html#phoenix
+
+## Documentation
+
+API documentation is available at [https://hexdocs.pm/phoenix](https://hexdocs.pm/phoenix)
+
+Phoenix.js documentation is available at [https://hexdocs.pm/phoenix/js](https://hexdocs.pm/phoenix/js)
+
+
+# Phoenix Project
 
 To start your Phoenix server:
 
